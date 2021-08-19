@@ -8,3 +8,6 @@ We developed and validated OUD algorithms in four large academic healthcare syst
 *Ranapurwala SI, Alam IZ, Pence BW, Carey TS, Christensen S, Clark M, Chelminski PR, Wu LT, Greenblatt LH, Korte JE, Wolfson M, Douglas HE, Bowlby LA, Capata M, Marshall SW. Development and validation of an electronic health records-based opioid use disorder algorithm by expert clinical adjudication.*
 
 **Algorithm Definitions** can be found in accompanying files.
+
+### Funding: 
+This project was supported by the National Center for Advancing Translational Sciences (NCATS), National Institutes of Health, through Grant Award Number UL1TR002489 and the Duke Endowment through a pilot grant. SIR, SWM, TSC, PRC, and LTW’s were supported by a grant from the Centers for Disease Control and Prevention (R01CE003009). BWP and SIR were also supported through a grant funded by the National Institute for Drug Abuse (R21DA046048).
