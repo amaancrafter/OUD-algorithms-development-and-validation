@@ -1,0 +1,507 @@
+in_rxnorm_cui,tty,rxnorm_cui,name,dose,unit
+7243,BN,152092,ReVia,,
+7243,BN,636556,Vivitrol,,
+7243,BN,859959,Embeda,,
+7243,BN,1551469,Contrave,,
+7243,BN,1806702,Troxyca,,
+7243,IN,7243,Naltrexone,,
+7243,MIN,866331,Morphine / Naltrexone,,
+7243,MIN,1551467,Bupropion / Naltrexone,,
+7243,MIN,1806700,Naltrexone / Oxycodone,,
+7243,PIN,105069,Naltrexone hydrochloride,,
+7243,SBD,1483746,Naltrexone hydrochloride 50 MG Oral Tablet [ReVia],50,mg
+7243,SBD,637216,Naltrexone 380 MG Injection [Vivitrol],380,mg
+7243,SBD,863847,Abuse-Deterrent Morphine Sulfate 100 MG / Naltrexone hydrochloride 4 MG Extended Release Oral Capsule [Embeda],4,mg
+7243,SBD,863849,Abuse-Deterrent Morphine Sulfate 20 MG / Naltrexone hydrochloride 0.8 MG Extended Release Oral Capsule [Embeda],0.8,mg
+7243,SBD,863851,Abuse-Deterrent Morphine Sulfate 30 MG / Naltrexone hydrochloride 1.2 MG Extended Release Oral Capsule [Embeda],1.2,mg
+7243,SBD,863853,Abuse-Deterrent Morphine Sulfate 50 MG / Naltrexone hydrochloride 2 MG Extended Release Oral Capsule [Embeda],2,mg
+7243,SBD,863855,Abuse-Deterrent Morphine Sulfate 60 MG / Naltrexone hydrochloride 2.4 MG Extended Release Oral Capsule [Embeda],2.4,mg
+7243,SBD,863857,Abuse-Deterrent Morphine Sulfate 80 MG / Naltrexone hydrochloride 3.2 MG Extended Release Oral Capsule [Embeda],3.2,mg
+7243,SBD,1551474,12 HR Bupropion Hydrochloride 90 MG / Naltrexone hydrochloride 8 MG Extended Release Oral Tablet [Contrave],8,mg
+7243,SBD,1806707,12 HR Naltrexone hydrochloride 1.2 MG / Oxycodone Hydrochloride 10 MG Extended Release Oral Capsule [Troxyca],1.2,mg
+7243,SBDC,1483745,Naltrexone hydrochloride 50 MG [ReVia],50,mg
+7243,SBDC,1740873,Naltrexone 380 MG [Vivitrol],380,mg
+7243,SBDC,859960,Morphine Sulfate 20 MG / Naltrexone hydrochloride 0.8 MG [Embeda],0.8,mg
+7243,SBDC,859966,Morphine Sulfate 30 MG / Naltrexone hydrochloride 1.2 MG [Embeda],1.2,mg
+7243,SBDC,859971,Morphine Sulfate 50 MG / Naltrexone hydrochloride 2 MG [Embeda],2,mg
+7243,SBDC,863542,Morphine Sulfate 100 MG / Naltrexone hydrochloride 4 MG [Embeda],4,mg
+7243,SBDC,863549,Morphine Sulfate 60 MG / Naltrexone hydrochloride 2.4 MG [Embeda],2.4,mg
+7243,SBDC,863554,Morphine Sulfate 80 MG / Naltrexone hydrochloride 3.2 MG [Embeda],3.2,mg
+7243,SBDC,1551470,Bupropion Hydrochloride 90 MG / Naltrexone hydrochloride 8 MG [Contrave],8,mg
+7243,SBDC,1806703,Naltrexone hydrochloride 1.2 MG / Oxycodone Hydrochloride 10 MG [Troxyca],1.2,mg
+7243,SBDF,368791,Naltrexone Oral Tablet [ReVia],,
+7243,SBDF,863846,Morphine / Naltrexone Extended Release Oral Capsule [Embeda],,
+7243,SBDF,1551471,Bupropion / Naltrexone Extended Release Oral Tablet [Contrave],,
+7243,SBDF,1740874,Naltrexone Injection [Vivitrol],,
+7243,SBDF,1806704,Naltrexone / Oxycodone Extended Release Oral Capsule [Troxyca],,
+7243,SCD,863848,Abuse-Deterrent Morphine Sulfate 20 MG / Naltrexone hydrochloride 0.8 MG Extended Release Oral Capsule,0.8,mg
+7243,SCD,863850,Abuse-Deterrent Morphine Sulfate 30 MG / Naltrexone hydrochloride 1.2 MG Extended Release Oral Capsule,1.2,mg
+7243,SCD,863852,Abuse-Deterrent Morphine Sulfate 50 MG / Naltrexone hydrochloride 2 MG Extended Release Oral Capsule,2,mg
+7243,SCD,1806701,12 HR Naltrexone hydrochloride 1.2 MG / Oxycodone Hydrochloride 10 MG Extended Release Oral Capsule,1.2,mg
+7243,SCD,863845,Abuse-Deterrent Morphine Sulfate 100 MG / Naltrexone hydrochloride 4 MG Extended Release Oral Capsule,4,mg
+7243,SCD,863854,Abuse-Deterrent Morphine Sulfate 60 MG / Naltrexone hydrochloride 2.4 MG Extended Release Oral Capsule,2.4,mg
+7243,SCD,863856,Abuse-Deterrent Morphine Sulfate 80 MG / Naltrexone hydrochloride 3.2 MG Extended Release Oral Capsule,3.2,mg
+7243,SCD,1806710,12 HR Naltrexone hydrochloride 2.4 MG / Oxycodone Hydrochloride 20 MG Extended Release Oral Capsule,2.4,mg
+7243,SCD,1483744,Naltrexone hydrochloride 50 MG Oral Tablet,50,mg
+7243,SCD,1483774,Naltrexone hydrochloride 100 MG Oral Tablet,100,mg
+7243,SCD,1483780,Naltrexone hydrochloride 25 MG Oral Tablet,25,mg
+7243,SCD,1551468,12 HR Bupropion Hydrochloride 90 MG / Naltrexone hydrochloride 8 MG Extended Release Oral Tablet,8,mg
+7243,SCD,637213,Naltrexone 380 MG Injection,380,mg
+7243,SCD,1806716,12 HR Naltrexone hydrochloride 3.6 MG / Oxycodone Hydrochloride 30 MG Extended Release Oral Capsule,3.6,mg
+7243,SCD,1806722,12 HR Naltrexone hydrochloride 4.8 MG / Oxycodone Hydrochloride 40 MG Extended Release Oral Capsule,4.8,mg
+7243,SCD,1806728,12 HR Naltrexone hydrochloride 7.2 MG / Oxycodone Hydrochloride 60 MG Extended Release Oral Capsule,7.2,mg
+7243,SCD,1806734,12 HR Naltrexone hydrochloride 9.6 MG / Oxycodone Hydrochloride 80 MG Extended Release Oral Capsule,9.6,mg
+7243,SCDC,859956,Naltrexone hydrochloride 0.8 MG,0.8,mg
+7243,SCDC,859964,Naltrexone hydrochloride 1.2 MG,1.2,mg
+7243,SCDC,859969,Naltrexone hydrochloride 2 MG,2,mg
+7243,SCDC,863540,Naltrexone hydrochloride 4 MG,4,mg
+7243,SCDC,863547,Naltrexone hydrochloride 2.4 MG,2.4,mg
+7243,SCDC,863552,Naltrexone hydrochloride 3.2 MG,3.2,mg
+7243,SCDC,1483743,Naltrexone hydrochloride 50 MG,50,mg
+7243,SCDC,1483773,Naltrexone hydrochloride 100 MG,100,mg
+7243,SCDC,1483779,Naltrexone hydrochloride 25 MG,25,mg
+7243,SCDC,1551463,Naltrexone hydrochloride 8 MG,8,mg
+7243,SCDC,1740870,Naltrexone 380 MG,380,mg
+7243,SCDC,1806715,Naltrexone hydrochloride 3.6 MG,3.6,mg
+7243,SCDC,1806721,Naltrexone hydrochloride 4.8 MG,4.8,mg
+7243,SCDC,1806727,Naltrexone hydrochloride 7.2 MG,7.2,mg
+7243,SCDC,1806733,Naltrexone hydrochloride 9.6 MG,9.6,mg
+7243,SCDF,372990,Naltrexone Oral Tablet,,
+7243,SCDF,863844,Morphine / Naltrexone Extended Release Oral Capsule,,
+7243,SCDF,1551466,Bupropion / Naltrexone Extended Release Oral Tablet,,
+7243,SCDF,1740871,Naltrexone Injection,,
+7243,SCDF,1806699,Naltrexone / Oxycodone Extended Release Oral Capsule,,
+7243,SCDG,1156981,Naltrexone Injectable Product,,
+7243,SCDG,1156982,Naltrexone Oral Product,,
+7243,SCDG,1156983,Naltrexone Pill,,
+7243,SCDG,1551464,Bupropion / Naltrexone Oral Product,,
+7243,SCDG,1551465,Bupropion / Naltrexone Pill,,
+7243,SCDG,1806697,Naltrexone / Oxycodone Oral Product,,
+7243,SCDG,1806698,Naltrexone / Oxycodone Pill,,
+7243,SCDG,1165401,Morphine / Naltrexone Oral Product,,
+7243,SCDG,1165402,Morphine / Naltrexone Pill,,
+7243,SBDG,1178314,ReVia Oral Product,,
+7243,SBDG,1178315,ReVia Pill,,
+7243,SBDG,1187405,Vivitrol Injectable Product,,
+7243,SBDG,1551472,Contrave Oral Product,,
+7243,SBDG,1551473,Contrave Pill,,
+7243,SBDG,1806705,Troxyca Oral Product,,
+7243,SBDG,1806706,Troxyca Pill,,
+7243,SBDG,1175292,Embeda Oral Product,,
+7243,SBDG,1175293,Embeda Pill,,
+7242,BN,197117,Narcan,,
+7242,BN,352990,Suboxone,,
+7242,BN,1431077,Zubsolv,,
+7242,BN,1495294,Evzio,,
+7242,BN,1542391,Bunavail,,
+7242,BN,2106363,Cassipa,,
+7242,IN,7242,Naloxone,,
+7242,MIN,1007909,Naloxone / Tilidine,,
+7242,MIN,214721,Naloxone / Pentazocine,,
+7242,MIN,352364,Buprenorphine / Naloxone,,
+7242,MIN,1545902,Naloxone / Oxycodone,,
+7242,PIN,1010598,Naloxone Hydrochloride Dihydrate,,
+7242,PIN,203192,Naloxone Hydrochloride,,
+7242,SBD,1725064,Naloxone Hydrochloride 40 MG/ML Nasal Spray [Narcan],40,mg/ml
+7242,SBD,1870935,Naloxone Hydrochloride 20 MG/ML Nasal Spray [Narcan],20,mg/ml
+7242,SBD,1010603,Buprenorphine 2 MG / Naloxone 0.5 MG Oral Strip [Suboxone],0.5,mg
+7242,SBD,1010606,Buprenorphine 8 MG / Naloxone 2 MG Oral Strip [Suboxone],2,mg
+7242,SBD,1010608,Buprenorphine 2 MG / Naloxone 0.5 MG Sublingual Tablet [Suboxone],0.5,mg
+7242,SBD,1010609,Buprenorphine 8 MG / Naloxone 2 MG Sublingual Tablet [Suboxone],2,mg
+7242,SBD,1307058,Buprenorphine 4 MG / Naloxone 1 MG Oral Strip [Suboxone],1,mg
+7242,SBD,1307063,Buprenorphine 12 MG / Naloxone 3 MG Oral Strip [Suboxone],3,mg
+7242,SBD,1864414,Buprenorphine 0.7 MG / Naloxone 0.18 MG Sublingual Tablet [Zubsolv],0.18,mg
+7242,SBD,1431083,Buprenorphine 1.4 MG / Naloxone 0.36 MG Sublingual Tablet [Zubsolv],0.36,mg
+7242,SBD,1431104,Buprenorphine 5.7 MG / Naloxone 1.4 MG Sublingual Tablet [Zubsolv],1.4,mg
+7242,SBD,1597570,Buprenorphine 11.4 MG / Naloxone 2.9 MG Sublingual Tablet [Zubsolv],2.9,mg
+7242,SBD,1597575,Buprenorphine 8.6 MG / Naloxone 2.1 MG Sublingual Tablet [Zubsolv],2.1,mg
+7242,SBD,1666385,Buprenorphine 2.9 MG / Naloxone 0.71 MG Sublingual Tablet [Zubsolv],0.71,mg
+7242,SBD,1495298,0.4 ML Naloxone Hydrochloride 1 MG/ML Auto-Injector [Evzio],1,mg/ml
+7242,SBD,1855732,0.4 ML Naloxone Hydrochloride 5 MG/ML Auto-Injector [Evzio],5,mg/ml
+7242,SBD,1542396,Buprenorphine 2.1 MG / Naloxone 0.3 MG Buccal Film [Bunavail],0.3,mg
+7242,SBD,1544853,Buprenorphine 4.2 MG / Naloxone 0.7 MG Buccal Film [Bunavail],0.7,mg
+7242,SBD,1544856,Buprenorphine 6.3 MG / Naloxone 1 MG Buccal Film [Bunavail],1,mg
+7242,SBD,2106368,Buprenorphine 16 MG / Naloxone 4 MG Oral Strip [Cassipa],4,mg
+7242,SBDC,1725060,Naloxone Hydrochloride 40 MG/ML [Narcan],40,mg/ml
+7242,SBDC,1870934,Naloxone Hydrochloride 20 MG/ML [Narcan],20,mg/ml
+7242,SBDC,1010601,Buprenorphine 2 MG / Naloxone 0.5 MG [Suboxone],0.5,mg
+7242,SBDC,1010605,Buprenorphine 8 MG / Naloxone 2 MG [Suboxone],2,mg
+7242,SBDC,1307057,Buprenorphine 4 MG / Naloxone 1 MG [Suboxone],1,mg
+7242,SBDC,1307062,Buprenorphine 12 MG / Naloxone 3 MG [Suboxone],3,mg
+7242,SBDC,1864413,Buprenorphine 0.7 MG / Naloxone 0.18 MG [Zubsolv],0.18,mg
+7242,SBDC,1431078,Buprenorphine 1.4 MG / Naloxone 0.36 MG [Zubsolv],0.36,mg
+7242,SBDC,1431103,Buprenorphine 5.7 MG / Naloxone 1.4 MG [Zubsolv],1.4,mg
+7242,SBDC,1597569,Buprenorphine 11.4 MG / Naloxone 2.9 MG [Zubsolv],2.9,mg
+7242,SBDC,1597574,Buprenorphine 8.6 MG / Naloxone 2.1 MG [Zubsolv],2.1,mg
+7242,SBDC,1666384,Buprenorphine 2.9 MG / Naloxone 0.71 MG [Zubsolv],0.71,mg
+7242,SBDC,1495295,Naloxone Hydrochloride 1 MG/ML [Evzio],1,mg/ml
+7242,SBDC,1855731,Naloxone Hydrochloride 5 MG/ML [Evzio],5,mg/ml
+7242,SBDC,1542392,Buprenorphine 2.1 MG / Naloxone 0.3 MG [Bunavail],0.3,mg
+7242,SBDC,1544852,Buprenorphine 4.2 MG / Naloxone 0.7 MG [Bunavail],0.7,mg
+7242,SBDC,1544855,Buprenorphine 6.3 MG / Naloxone 1 MG [Bunavail],1,mg
+7242,SBDC,2106364,Buprenorphine 16 MG / Naloxone 4 MG [Cassipa],4,mg
+7242,SBDF,1010607,Buprenorphine / Naloxone Sublingual Tablet [Suboxone],,
+7242,SBDF,1010602,Buprenorphine / Naloxone Oral Strip [Suboxone],,
+7242,SBDF,1431079,Buprenorphine / Naloxone Sublingual Tablet [Zubsolv],,
+7242,SBDF,1542393,Buprenorphine / Naloxone Buccal Film [Bunavail],,
+7242,SBDF,1725061,Naloxone Nasal Spray [Narcan],,
+7242,SBDF,1659890,Naloxone Auto-Injector [Evzio],,
+7242,SBDF,2106365,Buprenorphine / Naloxone Oral Strip [Cassipa],,
+7242,SCD,1864412,Buprenorphine 0.7 MG / Naloxone 0.18 MG Sublingual Tablet,0.18,mg
+7242,SCD,1010600,Buprenorphine 2 MG / Naloxone 0.5 MG Oral Strip,0.5,mg
+7242,SCD,312289,Naloxone 0.5 MG / Pentazocine 50 MG Oral Tablet,0.5,mg
+7242,SCD,351266,Buprenorphine 2 MG / Naloxone 0.5 MG Sublingual Tablet,0.5,mg
+7242,SCD,1010604,Buprenorphine 8 MG / Naloxone 2 MG Oral Strip,2,mg
+7242,SCD,351267,Buprenorphine 8 MG / Naloxone 2 MG Sublingual Tablet,2,mg
+7242,SCD,1431076,Buprenorphine 1.4 MG / Naloxone 0.36 MG Sublingual Tablet,0.36,mg
+7242,SCD,1431102,Buprenorphine 5.7 MG / Naloxone 1.4 MG Sublingual Tablet,1.4,mg
+7242,SCD,1542390,Buprenorphine 2.1 MG / Naloxone 0.3 MG Buccal Film,0.3,mg
+7242,SCD,1544851,Buprenorphine 4.2 MG / Naloxone 0.7 MG Buccal Film,0.7,mg
+7242,SCD,1545903,12 HR Naloxone Hydrochloride 10 MG / Oxycodone Hydrochloride 20 MG Extended Release Oral Tablet,10,mg
+7242,SCD,1545907,12 HR Naloxone Hydrochloride 20 MG / Oxycodone Hydrochloride 40 MG Extended Release Oral Tablet,20,mg
+7242,SCD,1545910,12 HR Naloxone Hydrochloride 5 MG / Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet,5,mg
+7242,SCD,1597568,Buprenorphine 11.4 MG / Naloxone 2.9 MG Sublingual Tablet,2.9,mg
+7242,SCD,1597573,Buprenorphine 8.6 MG / Naloxone 2.1 MG Sublingual Tablet,2.1,mg
+7242,SCD,1666338,Buprenorphine 2.9 MG / Naloxone 0.71 MG Sublingual Tablet,0.71,mg
+7242,SCD,1725059,Naloxone Hydrochloride 40 MG/ML Nasal Spray,40,mg/ml
+7242,SCD,1855730,0.4 ML Naloxone Hydrochloride 5 MG/ML Auto-Injector,5,mg/ml
+7242,SCD,1495293,0.4 ML Naloxone Hydrochloride 1 MG/ML Auto-Injector,1,mg/ml
+7242,SCD,1659929,1 ML Naloxone Hydrochloride 0.4 MG/ML Injection,0.4,mg/ml
+7242,SCD,1191212,Naloxone Hydrochloride 0.02 MG/ML Injectable Solution,0.02,mg/ml
+7242,SCD,1191222,Naloxone Hydrochloride 0.4 MG/ML Injectable Solution,0.4,mg/ml
+7242,SCD,1191228,Naloxone Hydrochloride 1 MG/ML Injectable Solution,1,mg/ml
+7242,SCD,1191234,1 ML Naloxone Hydrochloride 0.4 MG/ML Cartridge,0.4,mg/ml
+7242,SCD,1191250,2 ML Naloxone Hydrochloride 1 MG/ML Prefilled Syringe,1,mg/ml
+7242,SCD,2058257,Buprenorphine 16 MG / Naloxone 4 MG Oral Strip,4,mg
+7242,SCD,1544854,Buprenorphine 6.3 MG / Naloxone 1 MG Buccal Film,1,mg
+7242,SCD,1307056,Buprenorphine 4 MG / Naloxone 1 MG Oral Strip,1,mg
+7242,SCD,1307061,Buprenorphine 12 MG / Naloxone 3 MG Oral Strip,3,mg
+7242,SCD,1870933,Naloxone Hydrochloride 20 MG/ML Nasal Spray,20,mg/ml
+7242,SCDC,1864411,Naloxone 0.18 MG,0.18,mg
+7242,SCDC,343216,Naloxone 0.5 MG,0.5,mg
+7242,SCDC,353392,Naloxone 2 MG,2,mg
+7242,SCDC,1431075,Naloxone 0.36 MG,0.36,mg
+7242,SCDC,1431100,Naloxone 1.4 MG,1.4,mg
+7242,SCDC,1542387,Naloxone 0.3 MG,0.3,mg
+7242,SCDC,1544850,Naloxone 0.7 MG,0.7,mg
+7242,SCDC,1545898,Naloxone Hydrochloride 10 MG,10,mg
+7242,SCDC,1545906,Naloxone Hydrochloride 20 MG,20,mg
+7242,SCDC,1545909,Naloxone Hydrochloride 5 MG,5,mg
+7242,SCDC,1597567,Naloxone 2.9 MG,2.9,mg
+7242,SCDC,1597572,Naloxone 2.1 MG,2.1,mg
+7242,SCDC,1666337,Naloxone 0.71 MG,0.71,mg
+7242,SCDC,1725055,Naloxone Hydrochloride 40 MG/ML,40,mg/ml
+7242,SCDC,1855729,Naloxone Hydrochloride 5 MG/ML,5,mg/ml
+7242,SCDC,1191211,Naloxone Hydrochloride 0.02 MG/ML,0.02,mg/ml
+7242,SCDC,1191221,Naloxone Hydrochloride 0.4 MG/ML,0.4,mg/ml
+7242,SCDC,1191227,Naloxone Hydrochloride 1 MG/ML,1,mg/ml
+7242,SCDC,1307055,Naloxone 1 MG,1,mg
+7242,SCDC,1307060,Naloxone 3 MG,3,mg
+7242,SCDC,452122,Naloxone 4 MG,4,mg
+7242,SCDC,1870932,Naloxone Hydrochloride 20 MG/ML,20,mg/ml
+7242,SCDF,1010599,Buprenorphine / Naloxone Oral Strip,,
+7242,SCDF,372989,Naloxone Injectable Solution,,
+7242,SCDF,378762,Buprenorphine / Naloxone Sublingual Tablet,,
+7242,SCDF,379297,Naloxone / Pentazocine Oral Tablet,,
+7242,SCDF,727348,Naloxone Prefilled Syringe,,
+7242,SCDF,1542389,Buprenorphine / Naloxone Buccal Film,,
+7242,SCDF,1545901,Naloxone / Oxycodone Extended Release Oral Tablet,,
+7242,SCDF,1659888,Naloxone Auto-Injector,,
+7242,SCDF,1659913,Naloxone Cartridge,,
+7242,SCDF,1659928,Naloxone Injection,,
+7242,SCDF,1725058,Naloxone Nasal Spray,,
+7242,SCDG,1151359,Buprenorphine / Naloxone Oral Product,,
+7242,SCDG,1151360,Buprenorphine / Naloxone Pill,,
+7242,SCDG,1156976,Naloxone / Pentazocine Oral Product,,
+7242,SCDG,1156977,Naloxone / Pentazocine Pill,,
+7242,SCDG,1156980,Naloxone Injectable Product,,
+7242,SCDG,1542388,Buprenorphine / Naloxone Buccal Product,,
+7242,SCDG,1545899,Naloxone / Oxycodone Oral Product,,
+7242,SCDG,1545900,Naloxone / Oxycodone Pill,,
+7242,SCDG,1725056,Naloxone Inhalant Product,,
+7242,SCDG,1725057,Naloxone Nasal Product,,
+7242,SCDG,1294831,Buprenorphine / Naloxone Sublingual Product,,
+7242,SCDG,1295671,Buprenorphine / Naloxone Oral Strip Product,,
+7242,SBDG,1431080,Zubsolv Oral Product,,
+7242,SBDG,1431081,Zubsolv Pill,,
+7242,SBDG,1542395,Bunavail Oral Product,,
+7242,SBDG,1180238,Suboxone Oral Product,,
+7242,SBDG,1180239,Suboxone Pill,,
+7242,SBDG,2106366,Cassipa Oral Product,,
+7242,SBDG,1495297,Evzio Injectable Product,,
+7242,SBDG,1542394,Bunavail Buccal Product,,
+7242,SBDG,1725062,Narcan Inhalant Product,,
+7242,SBDG,1725063,Narcan Nasal Product,,
+7242,SBDG,1431082,Zubsolv Sublingual Product,,
+7242,SBDG,1297024,Suboxone Sublingual Product,,
+7242,SBDG,1296320,Suboxone Oral Strip Product,,
+7242,SBDG,2106367,Cassipa Oral Strip Product,,
+1819,BN,1818,Subutex,,
+1819,BN,203840,Buprenex,,
+1819,BN,352990,Suboxone,,
+1819,BN,904871,BuTrans,,
+1819,BN,1431077,Zubsolv,,
+1819,BN,1488635,Animalgesics,,
+1819,BN,1542391,Bunavail,,
+1819,BN,1594651,Simbadol,,
+1819,BN,1716058,Belbuca,,
+1819,BN,1797651,Probuphine,,
+1819,BN,2106363,Cassipa,,
+1819,BN,1996185,Sublocade,,
+1819,IN,1819,Buprenorphine,,
+1819,MIN,352364,Buprenorphine / Naloxone,,
+1819,PIN,203841,Buprenorphine hydrochloride,,
+1819,SBD,404414,Buprenorphine 8 MG Sublingual Tablet [Subutex],8,mg
+1819,SBD,205533,1 ML Buprenorphine 0.3 MG/ML Injection [Buprenex],0.3,mg/ml
+1819,SBD,1010603,Buprenorphine 2 MG / Naloxone 0.5 MG Oral Strip [Suboxone],2,mg
+1819,SBD,1010606,Buprenorphine 8 MG / Naloxone 2 MG Oral Strip [Suboxone],8,mg
+1819,SBD,1010608,Buprenorphine 2 MG / Naloxone 0.5 MG Sublingual Tablet [Suboxone],2,mg
+1819,SBD,1010609,Buprenorphine 8 MG / Naloxone 2 MG Sublingual Tablet [Suboxone],8,mg
+1819,SBD,1307058,Buprenorphine 4 MG / Naloxone 1 MG Oral Strip [Suboxone],4,mg
+1819,SBD,1307063,Buprenorphine 12 MG / Naloxone 3 MG Oral Strip [Suboxone],12,mg
+1819,SBD,904874,168 HR Buprenorphine 0.01 MG/HR Transdermal System [BuTrans],0.01,mg/hr
+1819,SBD,904878,168 HR Buprenorphine 0.02 MG/HR Transdermal System [BuTrans],0.02,mg/hr
+1819,SBD,904882,168 HR Buprenorphine 0.005 MG/HR Transdermal System [BuTrans],0.005,mg/hr
+1819,SBD,1432971,168 HR Buprenorphine 0.015 MG/HR Transdermal System [BuTrans],0.015,mg/hr
+1819,SBD,1542999,168 HR Buprenorphine 0.0075 MG/HR Transdermal System [BuTrans],0.0075,mg/hr
+1819,SBD,1864414,Buprenorphine 0.7 MG / Naloxone 0.18 MG Sublingual Tablet [Zubsolv],0.7,mg
+1819,SBD,1431083,Buprenorphine 1.4 MG / Naloxone 0.36 MG Sublingual Tablet [Zubsolv],1.4,mg
+1819,SBD,1431104,Buprenorphine 5.7 MG / Naloxone 1.4 MG Sublingual Tablet [Zubsolv],5.7,mg
+1819,SBD,1597570,Buprenorphine 11.4 MG / Naloxone 2.9 MG Sublingual Tablet [Zubsolv],11.4,mg
+1819,SBD,1597575,Buprenorphine 8.6 MG / Naloxone 2.1 MG Sublingual Tablet [Zubsolv],8.6,mg
+1819,SBD,1666385,Buprenorphine 2.9 MG / Naloxone 0.71 MG Sublingual Tablet [Zubsolv],2.9,mg
+1819,SBD,1488639,Buprenorphine hydrochloride 1.3 MG/ML Injectable Suspension [Animalgesics],1.3,mg/ml
+1819,SBD,1542396,Buprenorphine 2.1 MG / Naloxone 0.3 MG Buccal Film [Bunavail],2.1,mg
+1819,SBD,1544853,Buprenorphine 4.2 MG / Naloxone 0.7 MG Buccal Film [Bunavail],4.2,mg
+1819,SBD,1544856,Buprenorphine 6.3 MG / Naloxone 1 MG Buccal Film [Bunavail],6.3,mg
+1819,SBD,1594655,Buprenorphine 1.8 MG/ML Injectable Solution [Simbadol],1.8,mg/ml
+1819,SBD,1716063,Buprenorphine 0.15 MG Buccal Film [Belbuca],0.15,mg
+1819,SBD,1716067,Buprenorphine 0.3 MG Buccal Film [Belbuca],0.3,mg
+1819,SBD,1716071,Buprenorphine 0.45 MG Buccal Film [Belbuca],0.45,mg
+1819,SBD,1716075,Buprenorphine 0.6 MG Buccal Film [Belbuca],0.6,mg
+1819,SBD,1716079,Buprenorphine 0.075 MG Buccal Film [Belbuca],0.075,mg
+1819,SBD,1716083,Buprenorphine 0.75 MG Buccal Film [Belbuca],0.75,mg
+1819,SBD,1716090,Buprenorphine 0.9 MG Buccal Film [Belbuca],0.9,mg
+1819,SBD,1797655,Buprenorphine 74.2 MG Drug Implant [Probuphine],74.2,mg
+1819,SBD,2106368,Buprenorphine 16 MG / Naloxone 4 MG Oral Strip [Cassipa],16,mg
+1819,SBD,1996189,0.5 ML Buprenorphine 200 MG/ML Prefilled Syringe [Sublocade],200,mg/ml
+1819,SBD,1996193,1.5 ML Buprenorphine 200 MG/ML Prefilled Syringe [Sublocade],200,mg/ml
+1819,SBDC,576376,Buprenorphine 8 MG [Subutex],8,mg
+1819,SBDC,566435,Buprenorphine 0.3 MG/ML [Buprenex],0.3,mg/ml
+1819,SBDC,1010601,Buprenorphine 2 MG / Naloxone 0.5 MG [Suboxone],2,mg
+1819,SBDC,1010605,Buprenorphine 8 MG / Naloxone 2 MG [Suboxone],8,mg
+1819,SBDC,1307057,Buprenorphine 4 MG / Naloxone 1 MG [Suboxone],4,mg
+1819,SBDC,1307062,Buprenorphine 12 MG / Naloxone 3 MG [Suboxone],12,mg
+1819,SBDC,904872,Buprenorphine 0.01 MG/HR [BuTrans],0.01,mg/hr
+1819,SBDC,904877,Buprenorphine 0.02 MG/HR [BuTrans],0.02,mg/hr
+1819,SBDC,904881,Buprenorphine 0.005 MG/HR [BuTrans],0.005,mg/hr
+1819,SBDC,1432970,Buprenorphine 0.015 MG/HR [BuTrans],0.015,mg/hr
+1819,SBDC,1542998,Buprenorphine 0.0075 MG/HR [BuTrans],0.0075,mg/hr
+1819,SBDC,1864413,Buprenorphine 0.7 MG / Naloxone 0.18 MG [Zubsolv],0.7,mg
+1819,SBDC,1431078,Buprenorphine 1.4 MG / Naloxone 0.36 MG [Zubsolv],1.4,mg
+1819,SBDC,1431103,Buprenorphine 5.7 MG / Naloxone 1.4 MG [Zubsolv],5.7,mg
+1819,SBDC,1597569,Buprenorphine 11.4 MG / Naloxone 2.9 MG [Zubsolv],11.4,mg
+1819,SBDC,1597574,Buprenorphine 8.6 MG / Naloxone 2.1 MG [Zubsolv],8.6,mg
+1819,SBDC,1666384,Buprenorphine 2.9 MG / Naloxone 0.71 MG [Zubsolv],2.9,mg
+1819,SBDC,1488636,Buprenorphine hydrochloride 1.3 MG/ML [Animalgesics],1.3,mg/ml
+1819,SBDC,1542392,Buprenorphine 2.1 MG / Naloxone 0.3 MG [Bunavail],2.1,mg
+1819,SBDC,1544852,Buprenorphine 4.2 MG / Naloxone 0.7 MG [Bunavail],4.2,mg
+1819,SBDC,1544855,Buprenorphine 6.3 MG / Naloxone 1 MG [Bunavail],6.3,mg
+1819,SBDC,1594652,Buprenorphine 1.8 MG/ML [Simbadol],1.8,mg/ml
+1819,SBDC,1716059,Buprenorphine 0.15 MG [Belbuca],0.15,mg
+1819,SBDC,1716066,Buprenorphine 0.3 MG [Belbuca],0.3,mg
+1819,SBDC,1716070,Buprenorphine 0.45 MG [Belbuca],0.45,mg
+1819,SBDC,1716074,Buprenorphine 0.6 MG [Belbuca],0.6,mg
+1819,SBDC,1716078,Buprenorphine 0.075 MG [Belbuca],0.075,mg
+1819,SBDC,1716082,Buprenorphine 0.75 MG [Belbuca],0.75,mg
+1819,SBDC,1716087,Buprenorphine 0.9 MG [Belbuca],0.9,mg
+1819,SBDC,1797652,Buprenorphine 74.2 MG [Probuphine],74.2,mg
+1819,SBDC,2106364,Buprenorphine 16 MG / Naloxone 4 MG [Cassipa],16,mg
+1819,SBDC,1996186,Buprenorphine 200 MG/ML [Sublocade],200,mg/ml
+1819,SBDF,1010607,Buprenorphine / Naloxone Sublingual Tablet [Suboxone],,
+1819,SBDF,1010602,Buprenorphine / Naloxone Oral Strip [Suboxone],,
+1819,SBDF,384593,Buprenorphine Sublingual Tablet [Subutex],,
+1819,SBDF,1431079,Buprenorphine / Naloxone Sublingual Tablet [Zubsolv],,
+1819,SBDF,1488637,Buprenorphine Injectable Suspension [Animalgesics],,
+1819,SBDF,1542393,Buprenorphine / Naloxone Buccal Film [Bunavail],,
+1819,SBDF,1594653,Buprenorphine Injectable Solution [Simbadol],,
+1819,SBDF,1729360,Buprenorphine Injection [Buprenex],,
+1819,SBDF,1806214,Buprenorphine Transdermal System [BuTrans],,
+1819,SBDF,1716060,Buprenorphine Buccal Film [Belbuca],,
+1819,SBDF,1797653,Buprenorphine Drug Implant [Probuphine],,
+1819,SBDF,2106365,Buprenorphine / Naloxone Oral Strip [Cassipa],,
+1819,SBDF,1996187,Buprenorphine Prefilled Syringe [Sublocade],,
+1819,SCD,2058257,Buprenorphine 16 MG / Naloxone 4 MG Oral Strip,16,mg
+1819,SCD,1864412,Buprenorphine 0.7 MG / Naloxone 0.18 MG Sublingual Tablet,0.7,mg
+1819,SCD,238129,1 ML Buprenorphine 0.3 MG/ML Injection,0.3,mg/ml
+1819,SCD,1655032,1 ML Buprenorphine 0.3 MG/ML Cartridge,0.3,mg/ml
+1819,SCD,246474,Buprenorphine 0.2 MG Sublingual Tablet,0.2,mg
+1819,SCD,250426,Buprenorphine 0.4 MG Sublingual Tablet,0.4,mg
+1819,SCD,1010600,Buprenorphine 2 MG / Naloxone 0.5 MG Oral Strip,2,mg
+1819,SCD,1010604,Buprenorphine 8 MG / Naloxone 2 MG Oral Strip,8,mg
+1819,SCD,351264,Buprenorphine 2 MG Sublingual Tablet,2,mg
+1819,SCD,351265,Buprenorphine 8 MG Sublingual Tablet,8,mg
+1819,SCD,351266,Buprenorphine 2 MG / Naloxone 0.5 MG Sublingual Tablet,2,mg
+1819,SCD,351267,Buprenorphine 8 MG / Naloxone 2 MG Sublingual Tablet,8,mg
+1819,SCD,904870,168 HR Buprenorphine 0.01 MG/HR Transdermal System,0.01,mg/hr
+1819,SCD,904876,168 HR Buprenorphine 0.02 MG/HR Transdermal System,0.02,mg/hr
+1819,SCD,904880,168 HR Buprenorphine 0.005 MG/HR Transdermal System,0.005,mg/hr
+1819,SCD,1431076,Buprenorphine 1.4 MG / Naloxone 0.36 MG Sublingual Tablet,1.4,mg
+1819,SCD,1431102,Buprenorphine 5.7 MG / Naloxone 1.4 MG Sublingual Tablet,5.7,mg
+1819,SCD,1432969,168 HR Buprenorphine 0.015 MG/HR Transdermal System,0.015,mg/hr
+1819,SCD,1488634,Buprenorphine hydrochloride 1.3 MG/ML Injectable Suspension,1.3,mg/ml
+1819,SCD,1542390,Buprenorphine 2.1 MG / Naloxone 0.3 MG Buccal Film,2.1,mg
+1819,SCD,1542997,168 HR Buprenorphine 0.0075 MG/HR Transdermal System,0.0075,mg/hr
+1819,SCD,1544851,Buprenorphine 4.2 MG / Naloxone 0.7 MG Buccal Film,4.2,mg
+1819,SCD,1544854,Buprenorphine 6.3 MG / Naloxone 1 MG Buccal Film,6.3,mg
+1819,SCD,1594650,Buprenorphine 1.8 MG/ML Injectable Solution,1.8,mg/ml
+1819,SCD,1597568,Buprenorphine 11.4 MG / Naloxone 2.9 MG Sublingual Tablet,11.4,mg
+1819,SCD,1597573,Buprenorphine 8.6 MG / Naloxone 2.1 MG Sublingual Tablet,8.6,mg
+1819,SCD,1666338,Buprenorphine 2.9 MG / Naloxone 0.71 MG Sublingual Tablet,2.9,mg
+1819,SCD,1716057,Buprenorphine 0.15 MG Buccal Film,0.15,mg
+1819,SCD,1716065,Buprenorphine 0.3 MG Buccal Film,0.3,mg
+1819,SCD,1716069,Buprenorphine 0.45 MG Buccal Film,0.45,mg
+1819,SCD,1716073,Buprenorphine 0.6 MG Buccal Film,0.6,mg
+1819,SCD,1716077,Buprenorphine 0.075 MG Buccal Film,0.075,mg
+1819,SCD,1716081,Buprenorphine 0.75 MG Buccal Film,0.75,mg
+1819,SCD,1716086,Buprenorphine 0.9 MG Buccal Film,0.9,mg
+1819,SCD,1797650,Buprenorphine 74.2 MG Drug Implant,74.2,mg
+1819,SCD,1307056,Buprenorphine 4 MG / Naloxone 1 MG Oral Strip,4,mg
+1819,SCD,1307061,Buprenorphine 12 MG / Naloxone 3 MG Oral Strip,12,mg
+1819,SCD,1996184,0.5 ML Buprenorphine 200 MG/ML Prefilled Syringe,200,mg/ml
+1819,SCD,1996192,1.5 ML Buprenorphine 200 MG/ML Prefilled Syringe,200,mg/ml
+1819,SCDC,2058256,Buprenorphine 16 MG,16,mg
+1819,SCDC,1864410,Buprenorphine 0.7 MG,0.7,mg
+1819,SCDC,330801,Buprenorphine 0.3 MG/ML,0.3,mg/ml
+1819,SCDC,332698,Buprenorphine 0.2 MG,0.2,mg
+1819,SCDC,333623,Buprenorphine 0.4 MG,0.4,mg
+1819,SCDC,353390,Buprenorphine 2 MG,2,mg
+1819,SCDC,353391,Buprenorphine 8 MG,8,mg
+1819,SCDC,904869,Buprenorphine 0.01 MG/HR,0.01,mg/hr
+1819,SCDC,904875,Buprenorphine 0.02 MG/HR,0.02,mg/hr
+1819,SCDC,904879,Buprenorphine 0.005 MG/HR,0.005,mg/hr
+1819,SCDC,1431074,Buprenorphine 1.4 MG,1.4,mg
+1819,SCDC,1431099,Buprenorphine 5.7 MG,5.7,mg
+1819,SCDC,1432968,Buprenorphine 0.015 MG/HR,0.015,mg/hr
+1819,SCDC,1488632,Buprenorphine hydrochloride 1.3 MG/ML,1.3,mg/ml
+1819,SCDC,1542386,Buprenorphine 2.1 MG,2.1,mg
+1819,SCDC,1542518,Buprenorphine 6.3 MG,6.3,mg
+1819,SCDC,1542996,Buprenorphine 0.0075 MG/HR,0.0075,mg/hr
+1819,SCDC,1544849,Buprenorphine 4.2 MG,4.2,mg
+1819,SCDC,1594649,Buprenorphine 1.8 MG/ML,1.8,mg/ml
+1819,SCDC,1597566,Buprenorphine 11.4 MG,11.4,mg
+1819,SCDC,1597571,Buprenorphine 8.6 MG,8.6,mg
+1819,SCDC,1666336,Buprenorphine 2.9 MG,2.9,mg
+1819,SCDC,1716054,Buprenorphine 0.15 MG,0.15,mg
+1819,SCDC,1716064,Buprenorphine 0.3 MG,0.3,mg
+1819,SCDC,1716068,Buprenorphine 0.45 MG,0.45,mg
+1819,SCDC,1716072,Buprenorphine 0.6 MG,0.6,mg
+1819,SCDC,1716076,Buprenorphine 0.075 MG,0.075,mg
+1819,SCDC,1716080,Buprenorphine 0.75 MG,0.75,mg
+1819,SCDC,1716084,Buprenorphine 0.9 MG,0.9,mg
+1819,SCDC,1797647,Buprenorphine 74.2 MG,74.2,mg
+1819,SCDC,1307054,Buprenorphine 4 MG,4,mg
+1819,SCDC,1307059,Buprenorphine 12 MG,12,mg
+1819,SCDC,1996182,Buprenorphine 200 MG/ML,200,mg/ml
+1819,SCDF,1010599,Buprenorphine / Naloxone Oral Strip,,
+1819,SCDF,371161,Buprenorphine Sublingual Tablet,,
+1819,SCDF,378762,Buprenorphine / Naloxone Sublingual Tablet,,
+1819,SCDF,379112,Buprenorphine Injectable Solution,,
+1819,SCDF,1488633,Buprenorphine Injectable Suspension,,
+1819,SCDF,1542389,Buprenorphine / Naloxone Buccal Film,,
+1819,SCDF,1655031,Buprenorphine Cartridge,,
+1819,SCDF,1716056,Buprenorphine Buccal Film,,
+1819,SCDF,1729358,Buprenorphine Injection,,
+1819,SCDF,1797649,Buprenorphine Drug Implant,,
+1819,SCDF,1806212,Buprenorphine Transdermal System,,
+1819,SCDF,1996183,Buprenorphine Prefilled Syringe,,
+1819,SCDG,1151359,Buprenorphine / Naloxone Oral Product,,
+1819,SCDG,1151360,Buprenorphine / Naloxone Pill,,
+1819,SCDG,1151361,Buprenorphine Injectable Product,,
+1819,SCDG,1151362,Buprenorphine Oral Product,,
+1819,SCDG,1151363,Buprenorphine Pill,,
+1819,SCDG,1151364,Buprenorphine Topical Product,,
+1819,SCDG,1542388,Buprenorphine / Naloxone Buccal Product,,
+1819,SCDG,1716055,Buprenorphine Buccal Product,,
+1819,SCDG,1797648,Buprenorphine Drug Implant Product,,
+1819,SCDG,1294831,Buprenorphine / Naloxone Sublingual Product,,
+1819,SCDG,1295116,Buprenorphine Sublingual Product,,
+1819,SCDG,1295269,Buprenorphine Transdermal Product,,
+1819,SCDG,1295671,Buprenorphine / Naloxone Oral Strip Product,,
+1819,SBDG,1431080,Zubsolv Oral Product,,
+1819,SBDG,1431081,Zubsolv Pill,,
+1819,SBDG,1488638,Animalgesics Injectable Product,,
+1819,SBDG,1542395,Bunavail Oral Product,,
+1819,SBDG,1594654,Simbadol Injectable Product,,
+1819,SBDG,1716062,Belbuca Oral Product,,
+1819,SBDG,1168053,BuTrans Topical Product,,
+1819,SBDG,1168687,Buprenex Injectable Product,,
+1819,SBDG,1180238,Suboxone Oral Product,,
+1819,SBDG,1180239,Suboxone Pill,,
+1819,SBDG,1180241,Subutex Oral Product,,
+1819,SBDG,1180242,Subutex Pill,,
+1819,SBDG,2106366,Cassipa Oral Product,,
+1819,SBDG,1996188,Sublocade Injectable Product,,
+1819,SBDG,1542394,Bunavail Buccal Product,,
+1819,SBDG,1716061,Belbuca Buccal Product,,
+1819,SBDG,1797654,Probuphine Drug Implant Product,,
+1819,SBDG,1431082,Zubsolv Sublingual Product,,
+1819,SBDG,1295833,Subutex Sublingual Product,,
+1819,SBDG,1297024,Suboxone Sublingual Product,,
+1819,SBDG,1296320,Suboxone Oral Strip Product,,
+1819,SBDG,1296477,BuTrans Transdermal Product,,
+1819,SBDG,2106367,Cassipa Oral Strip Product,,
+6813,BN,152751,Methadose,,
+6813,BN,202370,Dolophine,,
+6813,BN,670009,Diskets,,
+6813,IN,6813,Methadone,,
+6813,PIN,218337,Methadone Hydrochloride,,
+6813,SBD,864737,Methadone Hydrochloride 5 MG Oral Tablet [Methadose],5,mg
+6813,SBD,864980,Methadone Hydrochloride 40 MG Tablet for Oral Suspension [Methadose],40,mg
+6813,SBD,991149,Methadone Hydrochloride 10 MG/ML Oral Solution [Methadose],10,mg/ml
+6813,SBD,864712,Methadone Hydrochloride 10 MG Oral Tablet [Methadose],10,mg
+6813,SBD,864708,Methadone Hydrochloride 10 MG Oral Tablet [Dolophine],10,mg
+6813,SBD,864720,Methadone Hydrochloride 5 MG Oral Tablet [Dolophine],5,mg
+6813,SBD,1990745,Methadone Hydrochloride 40 MG Tablet for Oral Suspension [Diskets],40,mg
+6813,SBDC,864736,Methadone Hydrochloride 5 MG [Methadose],5,mg
+6813,SBDC,1804028,Methadone Hydrochloride 10 MG/ML [Methadose],10,mg/ml
+6813,SBDC,864711,Methadone Hydrochloride 10 MG [Methadose],10,mg
+6813,SBDC,1869551,Methadone Hydrochloride 40 MG [Methadose],40,mg
+6813,SBDC,864707,Methadone Hydrochloride 10 MG [Dolophine],10,mg
+6813,SBDC,864719,Methadone Hydrochloride 5 MG [Dolophine],5,mg
+6813,SBDC,1990741,Methadone Hydrochloride 40 MG [Diskets],40,mg
+6813,SBDF,1990742,Methadone Tablet for Oral Suspension [Diskets],,
+6813,SBDF,368846,Methadone Oral Tablet [Methadose],,
+6813,SBDF,363965,Methadone Oral Solution [Methadose],,
+6813,SBDF,368847,Methadone Oral Tablet [Dolophine],,
+6813,SBDF,1869552,Methadone Tablet for Oral Suspension [Methadose],,
+6813,SCD,864706,Methadone Hydrochloride 10 MG Oral Tablet,10,mg
+6813,SCD,864714,Methadone Hydrochloride 10 MG/ML Injectable Solution,10,mg/ml
+6813,SCD,864718,Methadone Hydrochloride 5 MG Oral Tablet,5,mg
+6813,SCD,864761,Methadone Hydrochloride 1 MG/ML Oral Solution,1,mg/ml
+6813,SCD,864769,Methadone Hydrochloride 2 MG/ML Oral Solution,2,mg/ml
+6813,SCD,864984,Methadone Hydrochloride 20 MG/ML Oral Solution,20,mg/ml
+6813,SCD,991147,Methadone Hydrochloride 10 MG/ML Oral Solution,10,mg/ml
+6813,SCD,864978,Methadone Hydrochloride 40 MG Tablet for Oral Suspension,40,mg
+6813,SCDC,864705,Methadone Hydrochloride 10 MG,10,mg
+6813,SCDC,864713,Methadone Hydrochloride 10 MG/ML,10,mg/ml
+6813,SCDC,864717,Methadone Hydrochloride 5 MG,5,mg
+6813,SCDC,864760,Methadone Hydrochloride 1 MG/ML,1,mg/ml
+6813,SCDC,864768,Methadone Hydrochloride 2 MG/ML,2,mg/ml
+6813,SCDC,864983,Methadone Hydrochloride 20 MG/ML,20,mg/ml
+6813,SCDC,1869548,Methadone Hydrochloride 40 MG,40,mg
+6813,SCDF,372806,Methadone Oral Solution,,
+6813,SCDF,372807,Methadone Injectable Solution,,
+6813,SCDF,372808,Methadone Oral Tablet,,
+6813,SCDF,1869549,Methadone Tablet for Oral Suspension,,
+6813,SCDG,1161619,Methadone Injectable Product,,
+6813,SCDG,1161620,Methadone Oral Liquid Product,,
+6813,SCDG,1161621,Methadone Oral Product,,
+6813,SCDG,1161622,Methadone Pill,,
+6813,SBDG,1990743,Diskets Oral Liquid Product,,
+6813,SBDG,1990744,Diskets Oral Product,,
+6813,SBDG,1174574,Dolophine Oral Product,,
+6813,SBDG,1174575,Dolophine Pill,,
+6813,SBDG,1185658,Methadose Oral Liquid Product,,
+6813,SBDG,1185659,Methadose Oral Product,,
+6813,SBDG,1185660,Methadose Pill,,
