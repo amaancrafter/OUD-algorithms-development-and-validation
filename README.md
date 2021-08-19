@@ -10,4 +10,4 @@ We developed and validated OUD algorithms in four large academic healthcare syst
 **Algorithm Definitions** can be found in accompanying files.
 
 ### Funding: 
-This project was supported by the National Center for Advancing Translational Sciences (NCATS), National Institutes of Health, through Grant Award Number UL1TR002489 and the Duke Endowment through a pilot grant. SIR, SWM, TSC, PRC, and LTW were supported by a grant from the Centers for Disease Control and Prevention (R01CE003009). BWP and SIR were also supported through a grant funded by the National Institute for Drug Abuse (R21DA046048).
+This project was supported by the National Center for Advancing Translational Sciences (NCATS), National Institutes of Health, through Grant Award Number UL1TR002489 and the Duke Endowment through a pilot grant. SIR, AIZ, SWM, TSC, PRC, and LTW were supported by a grant from the Centers for Disease Control and Prevention (R01CE003009). BWP and SIR were also supported through a grant funded by the National Institute for Drug Abuse (R21DA046048).
