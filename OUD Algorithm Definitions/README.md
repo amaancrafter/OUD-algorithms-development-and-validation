@@ -1,14 +1,17 @@
 ### Opioid use disorder algorithm iterations and definitions
+_______________________________________________________________________
 
-**Iteration**-------**Criteria**
+**Iteration** ------- **Criteria**
+_______________________________________________________________________
 
-1		--------------	Any of: A, B, C, D, E
+V1		--------------	Any of: A, B, C, D, E
 
-2*	-------------  Any of: A, B, C, D, E
+V2*	-------------  Any of: A, B, C, D, E
 
-3	  --------------  Any of: A, D, F, G, H
+V3	  --------------  Any of: A, D, F, G, H
 
-4**	------------  Any of: A, D, F, G, I
+V4**	------------  Any of: A, D, F, G, I
+________________________________________________________________________
 
 A.	ICD9/10 codes for abuse/ dependence
 
@@ -31,5 +34,6 @@ I.	‘H,’ excluding ED visits where surgery was performed up to two weeks befo
 *iteration 2 had the same criteria as iteration 1, except we that in iteration 2, we provided additional instructions to the expert adjudication panel that all abstraction should be restricted to the years 2014-2017 only.
 
 ** Excludes patients receiving medications for metastatic cancers or have cancer diagnoses
+_____________________________________________________________________________________________________________________________________________________
 
 
