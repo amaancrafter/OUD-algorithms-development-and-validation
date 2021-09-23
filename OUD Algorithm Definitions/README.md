@@ -31,7 +31,7 @@ H.	3+ ED visits with opioid RX in 30-day window
 
 I.	‘H,’ excluding ED visits where surgery was performed up to two weeks before visit
 
-*iteration 2 had the same criteria as iteration 1, except we that in iteration 2, we provided additional instructions to the expert adjudication panel that all abstraction should be restricted to the years 2014-2017 only.
+*iteration 2 had the same criteria as iteration 1, except that in iteration 2, we provided additional instructions to the expert adjudication panel that all abstraction should be restricted to the years 2014-2017 only.
 
 ** Excludes patients receiving medications for metastatic cancers or have cancer diagnoses
 _____________________________________________________________________________________________________________________________________________________
